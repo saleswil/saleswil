@@ -17,3 +17,8 @@
 2 + 2
 
 # %%
+from exemplo import soma
+resultado = soma(2, 2)
+print(resultado)
+
+# %%
