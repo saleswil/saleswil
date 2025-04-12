@@ -13,12 +13,27 @@
 #     name: projeto_novo
 # ---
 
+# %% [markdown]
+# Um exemplo simples abaixo:
+
 # %%
 2 + 2
+
+# %%
+O mesmo exemplo com a classe soma:
 
 # %%
 from exemplo import soma
 resultado = soma(2, 2)
 print(resultado)
+
+# %%
+import matplotlib.pyplot as plt 
+
+x = [1,2,3,4,5]
+y = [1,2,3,4,5]
+
+plt.plot(x,y)
+plt.show()
 
 # %%
