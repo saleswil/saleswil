@@ -19,8 +19,8 @@
 # %%
 2 + 2
 
-# %%
-O mesmo exemplo com a classe soma:
+# %% [markdown]
+# O mesmo exemplo com a classe soma:
 
 # %%
 from exemplo import soma
