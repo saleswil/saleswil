@@ -1,8 +1,14 @@
-Oi, eu sou o Wilton Sales! :wave: :vulcan_salute:
+Prazer, sou Wilton Sales! :wave: :vulcan_salute:
 
-Sou um Analista de Dados com experiência em ferramentas de análise de dados, criação de dashboards, modelagem estatística e prevenção a fraudes. Tenho paixão por transformar dados em insights acionáveis e contribuir para a otimização de processos e tomada de decisões estratégicas.
+Profissional de Ciência de Dados com sólida formação técnica, pós-graduação em Data Science e em fase final de especialização em Machine Learning. Atuo com foco em análise de dados, prevenção à fraude e mitigação de riscos financeiros.
 
-Minha experiência abrange análise de dados, integração de sistemas e aplicação de metodologias avançadas para mitigar riscos e fraudes. Busco sempre aprender novas técnicas e tecnologias para aprimorar minhas habilidades e entregar soluções inovadoras.
+Possuo mais de 5 anos de experiência na utilização de dados para identificar padrões suspeitos, desenvolver regras de detecção em tempo real e aplicar modelos estatísticos visando à redução de perdas e à otimização de decisões. Tenho forte domínio em SQL, Python, Estatística, Excel e Google Sheets, além de experiência na criação de pipelines e automações analíticas.
+
+Tenho experiência com ferramentas de visualização de dados, como Power BI, Looker Studio e Looker, atuando no desenvolvimento de dashboards, acompanhamento de métricas críticas e suporte a áreas como risco, compliance e crédito.
+
+Em constante atualização, aprofundo meus conhecimentos em Ciência de Dados por meio da plataforma Hashtag Treinamentos.
+
+
 
 Conecte-se comigo:
 <div style="display: inline-block">
