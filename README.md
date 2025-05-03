@@ -1,4 +1,4 @@
-Prazer, sou Wilton Sales! :wave: :vulcan_salute:
+# Prazer, sou Wilton Sales! :wave: :vulcan_salute:
 
 Profissional de Ciência de Dados com sólida formação técnica, pós-graduação em Data Science e em fase final de especialização em Machine Learning. Atuo com foco em análise de dados, prevenção à fraude e mitigação de riscos financeiros.
 
